@@ -1,0 +1,57 @@
+.site-title{
+  text-align: center;
+}
+.svetafor{
+  width: 250px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+  background-color: black;
+  padding: 40px 5px;
+  border-radius: 150px;
+}
+.col{
+  width: 20px;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  background-color: black;
+}
+.col-green{
+  display:block;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+  justify-content: center;
+  background-color: green;
+  border-radius: 50%;
+  opacity: 0.4;
+}
+.col-yellow{
+  display:flex;
+  width: 160px;
+  height: 160px;
+  margin: 10px auto;
+  justify-content: center;
+  background-color: darkorange;
+  border-radius: 50%;
+  opacity: 0.4;
+}
+.col-red{
+  display:flex;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+  justify-content: center;
+  background-color: red;
+  border-radius: 50%;
+  opacity: 0.4;
+}
+
+.stop-btn{
+  display: block;
+  margin: 0 auto;
+  color: black;
+  background-color: brown;
+  padding: 7px;
+}
